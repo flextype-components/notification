@@ -40,7 +40,9 @@ Adds specific variable to the Notifications array for current page.
 Notification::setNow('success', 'Success!');
 ```
 
-Clears the Notifications array.
+Clears the Notifications array.  
+Data that previous pages stored will not be deleted, just the data that
+this page stored itself.
 ```php
 Notification::clean();
 ```
