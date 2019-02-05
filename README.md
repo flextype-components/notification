@@ -1,6 +1,7 @@
 # Notification Component
-![version](https://img.shields.io/badge/version-1.0.1-brightgreen.svg?style=flat-square "Version")
+[![Quality Score](https://img.shields.io/scrutinizer/g/flextype-components/notification.svg?branch=master)](https://scrutinizer-ci.com/g/flextype-components/notification?branch=master)
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/flextype-components/notification/blob/master/LICENSE)
+[![Quality Score](https://img.shields.io/scrutinizer/g/flextype-components/notification.svg?branch=master)](https://scrutinizer-ci.com/g/flextype-components/notification?branch=master)
 
 Notification component for storing and retrieving flash data.
 
