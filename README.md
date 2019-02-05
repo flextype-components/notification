@@ -1,5 +1,5 @@
 # Notification Component
-[![Quality Score](https://img.shields.io/scrutinizer/g/flextype-components/notification.svg?branch=master)](https://scrutinizer-ci.com/g/flextype-components/notification?branch=master)
+[![Version](https://img.shields.io/github/release/flextype-components/notification.svg?label=version)](https://github.com/flextype-components/notification/releases)
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/flextype-components/notification/blob/master/LICENSE)
 [![Quality Score](https://img.shields.io/scrutinizer/g/flextype-components/notification.svg?branch=master)](https://scrutinizer-ci.com/g/flextype-components/notification?branch=master)
 
